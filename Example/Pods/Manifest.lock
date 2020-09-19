@@ -1,0 +1,16 @@
+PODS:
+  - libpcgtest (0.1.0)
+
+DEPENDENCIES:
+  - libpcgtest (from `../`)
+
+EXTERNAL SOURCES:
+  libpcgtest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  libpcgtest: f2e8a2d2c5814fed867c871b94251cd7c6b031b6
+
+PODFILE CHECKSUM: d865729a62a3d588f2aa380f3973ac8e7c9d9663
+
+COCOAPODS: 1.9.3

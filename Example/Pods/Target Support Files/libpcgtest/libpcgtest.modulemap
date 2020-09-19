@@ -1,0 +1,6 @@
+framework module libpcgtest {
+  umbrella header "libpcgtest-umbrella.h"
+
+  export *
+  module * { export * }
+}

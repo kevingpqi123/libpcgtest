@@ -1,0 +1,6 @@
+framework module Pods_libpcgtest_Tests {
+  umbrella header "Pods-libpcgtest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
