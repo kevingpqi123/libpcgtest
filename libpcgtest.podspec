@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'kevingpqi' => 'kevingpqi@tencent.com' }
-  s.source           = { :git => 'https://github.com/kevingpqi/libpcgtest.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/kevingpqi123/libpcgtest.git', :tag => s.version.to_s }
   s.vendored_frameworks = 'framework/*.framework'
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
